@@ -1,2 +1,2 @@
-# DRONE PROJ 2
-Automates workflows as far as possible.
+# Jellyfish ETH
+Jellyfish-inspired robots have gained significant attention in soft robotics and biomimetic engineering due to their energy efficiency, silent propulsion, and adaptability to aquatic environments. The AI-powered Jellyfish robots offer a promising avenue for developing next-generation robotic systems with applications in biomedical research, environmental monitoring, and marine life interaction. 
